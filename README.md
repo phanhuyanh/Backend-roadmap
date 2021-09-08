@@ -10,3 +10,9 @@
 
 - What does the Internet work?
   - [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+  
+- How DNS works?
+  - [Cloudflare](https://www.cloudflare.com/learning/dns/what-is-dns/)
+  
+- What is domain name?
+  - [Cloudflare](https://www.cloudflare.com/learning/dns/glossary/what-is-a-domain-name/)
