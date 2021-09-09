@@ -19,3 +19,6 @@
 
 - What is hosting?
   - [Namecheap](https://www.namecheap.com/hosting/what-is-web-hosting-definition/)
+
+- What browser and how they work?
+  - [Mozilla](https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/)
