@@ -22,3 +22,6 @@
 
 - What browser and how they work?
   - [Mozilla](https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/)
+
+- What is HTTP protocol?
+  - [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
