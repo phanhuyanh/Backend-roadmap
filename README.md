@@ -16,3 +16,6 @@
   
 - What is domain name?
   - [Cloudflare](https://www.cloudflare.com/learning/dns/glossary/what-is-a-domain-name/)
+
+- What is hosting?
+  - [Namecheap](https://www.namecheap.com/hosting/what-is-web-hosting-definition/)
