@@ -28,3 +28,6 @@
 
 - What is a Terminal?
   - [ITConnect](https://itconnect.uw.edu/learn/workshops/online-tutorials/web-publishing/what-is-a-terminal/)
+
+- How OSs work in General?
+  - [Synopsys](https://www.synopsys.com/glossary/what-is-open-source-software.html#1)
