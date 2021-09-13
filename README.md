@@ -31,3 +31,6 @@
 
 - How OSs work in General?
   - [Synopsys](https://www.synopsys.com/glossary/what-is-open-source-software.html#1)
+
+- Process Management
+  - [Guru99](https://www.guru99.com/process-management-pcb.html)
