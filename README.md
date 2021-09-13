@@ -25,3 +25,6 @@
 
 - What is HTTP protocol?
   - [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+
+- What is a Terminal?
+  - [ITConnect](https://itconnect.uw.edu/learn/workshops/online-tutorials/web-publishing/what-is-a-terminal/)
