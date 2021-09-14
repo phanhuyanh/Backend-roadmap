@@ -31,3 +31,8 @@
 
 - OS
   - [OSN](https://applied-programming.github.io/Operating-Systems-Notes/)
+
+- Command Line
+  - [CURL](https://www.geeksforgeeks.org/curl-command-in-linux-with-examples/)
+  - [Grep](https://phoenixnap.com/kb/grep-command-linux-unix-examples)
+  - [SSH](https://phoenixnap.com/kb/ssh-to-connect-to-remote-server-linux-or-windows)
