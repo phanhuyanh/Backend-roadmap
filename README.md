@@ -36,3 +36,7 @@
   - [CURL](https://www.geeksforgeeks.org/curl-command-in-linux-with-examples/)
   - [Grep](https://phoenixnap.com/kb/grep-command-linux-unix-examples)
   - [SSH](https://phoenixnap.com/kb/ssh-to-connect-to-remote-server-linux-or-windows)
+
+- Basis networking concepts
+  - [IBM Concepts](https://www.ibm.com/cloud/learn/networking-a-complete-guide)
+  - [IBM Load Balancing](https://www.ibm.com/cloud/learn/load-balancing)
