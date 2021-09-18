@@ -40,3 +40,6 @@
 - Basis networking concepts
   - [IBM Concepts](https://www.ibm.com/cloud/learn/networking-a-complete-guide)
   - [IBM Load Balancing](https://www.ibm.com/cloud/learn/load-balancing)
+ 
+- What is difference between webpage, website, web server, search engine
+  - [Mozila](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines)
